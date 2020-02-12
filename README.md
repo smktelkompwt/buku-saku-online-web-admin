@@ -17,17 +17,17 @@ npm build
 
 ### Run your unit tests
 ```
-yarn test:unit
+npm run test:unit
 ```
 
 ### Run your end-to-end tests
 ```
-yarn test:e2e
+nrpm run test:e2e
 ```
 
 ### Lints and fixes files
 ```
-yarn lint
+npm lint
 ```
 
 ### Customize configuration
