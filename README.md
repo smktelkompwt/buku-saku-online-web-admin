@@ -22,12 +22,12 @@ npm run test:unit
 
 ### Run your end-to-end tests
 ```
-nrpm run test:e2e
+npm run test:e2e
 ```
 
 ### Lints and fixes files
 ```
-npm lint
+npm run lint
 ```
 
 ### Customize configuration
